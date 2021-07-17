@@ -42,4 +42,6 @@ If you don't know me, I am a Product Owner, a Telecom Engineer, an IoT Specialis
 ## 💪 Things I'm familiar with
 
 ## 🔨 Know my projects
+- My First App in Flutter - ![GitHub last commit](https://img.shields.io/github/last-commit/mullerfs/flutter_first_app?style=flat-square)
+  - 
 
