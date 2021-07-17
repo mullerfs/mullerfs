@@ -26,16 +26,17 @@ If You found me here, I will make a guess: You already know me, right?. (Então 
 
 If you don't know me, I am a Product Owner, a Telecom Engineer, an IoT Specialist an many other things. People who know me can even say that I'm a dancer!
 
-## 📫 How to reach me ...
+## 📫 How to reach me:
 - <a href="https://www.linkedin.com/in/mullerfs/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-mullerfs-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## 👀 Find me on the network...
+## 👀 Find me on the network:
 - ![CodePen](https://codepen.io/mullerfs)
 - <a href="https://codepen.io/mullerfs"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-mullerfs-purple.svg?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 
-##  🌱 I’m currently learning ...
+##  🌱 I’m currently learning:
+- Flutter
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working on:
 
 ## 💪 Things I'm familiar with :
 
