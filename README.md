@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-## Hello ![hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif =25x){ width=50% } ! I'm Müller.
-
+##Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ! I'm Müller.</h2>
 <p align="center">
    • <a href="https://mfs.eng.br/">Blog </a> (Sorry international fellas, it's in portuguese)•
 </p>
