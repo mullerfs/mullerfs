@@ -1,5 +1,5 @@
-### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=mullerfs&color=green)
 <!--
 **mullerfs/mullerfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,16 +27,15 @@ If You found me here, I will make a guess: You already know me, right?. (Então 
 If you don't know me, I am a Product Owner, a Telecom Engineer, an IoT Specialist an many other things. People who know me can even say that I'm a dancer!
 
 ## 📫 How to reach me ...
-- <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-mullerfs-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+- <a href="https://www.linkedin.com/in/mullerfs/">
+- <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-mullerfs-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## Find me on the network...
-- [CodePen]: https://codepen.io/mullerfs
+## 👀 Find me on the network...
+- ![CodePen](https://codepen.io/mullerfs)
 
 ##  🌱 I’m currently learning ...
 
 ## 🔭 I’m currently working on ...
 
-### Things I'm familiar with :
+## 💪 Things I'm familiar with :
 
-
-![](https://komarev.com/ghpvc/?username=mullerfs&color=green)
