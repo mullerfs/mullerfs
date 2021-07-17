@@ -27,8 +27,7 @@ If You found me here, I will make a guess: You already know me, right?. (Então 
 If you don't know me, I am a Product Owner, a Telecom Engineer, an IoT Specialist an many other things. People who know me can even say that I'm a dancer!
 
 ## 📫 How to reach me ...
-- <a href="https://www.linkedin.com/in/mullerfs/">
-- <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-mullerfs-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a href="https://www.linkedin.com/in/mullerfs/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-mullerfs-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## 👀 Find me on the network...
 - ![CodePen](https://codepen.io/mullerfs)
