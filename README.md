@@ -36,9 +36,10 @@ If you don't know me, I am a Product Owner, a Telecom Engineer, an IoT Specialis
 
 -  ![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-## 🔭 I’m currently working on
+## 👷‍♂️ I’m currently working on
 
 
 ## 💪 Things I'm familiar with
 
+## 🔨 Know my projects
 
