@@ -38,7 +38,6 @@ If you don't know me, I am a Product Owner, a Telecom Engineer, an IoT Specialis
 
 ## 👷‍♂️ I’m currently working on
 
-
 ## 💪 Things I'm familiar with
 
 ## 🔨 Know my projects
