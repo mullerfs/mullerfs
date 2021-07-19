@@ -45,3 +45,7 @@ If you don't know me, I am a Product Owner, a Telecom Engineer, an IoT Specialis
 - [mullerfs/flutter_first_app](https://github.com/mullerfs/flutter_first_app) 
   - ![GitHub last commit](https://img.shields.io/github/last-commit/mullerfs/flutter_first_app?style=flat-square)
   - Just like the name said. My first app on the path to learn Flutter and Dart. 
+
+### Another Things
+- [References](References.md)
+A place with all the links that I once found interesting.
