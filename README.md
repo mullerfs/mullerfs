@@ -48,4 +48,4 @@ If you don't know me, I am a Product Owner, a Telecom Engineer, an IoT Specialis
 
 ### Another Things
 - [References](References.md)
-A place with all the links that I once found interesting.
+  - A place with all the links that I once found interesting.

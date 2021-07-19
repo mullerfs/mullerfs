@@ -1,5 +1,6 @@
 # Frontend Resources
+
 - https://simpleicons.org
   - Icons for every program
-- shields.io
+- http://shields.io
   - badges for everything
