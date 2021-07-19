@@ -1,4 +1,4 @@
-# Frontend Resources
+## Frontend Resources
 
 - https://simpleicons.org
   - Icons for every program
