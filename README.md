@@ -54,5 +54,5 @@ If you don't know me, I am a Product Owner, a Telecom Engineer, an IoT Specialis
 ### Another Things
 - [References](References.md)
   - A place with all the links that I once found interesting.
-- [mullerfs/flutter_first_app](https://github.com/mullerfs/code_snippets) 
+- [mullerfs/code_snippets](https://github.com/mullerfs/code_snippets) 
   - Examples and Snippets of codes that I find useful.. 
