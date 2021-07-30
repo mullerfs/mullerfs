@@ -4,7 +4,12 @@
   - Icons for every program
 - http://shields.io
   - badges for everything
+- https://slickr.vercel.app/app
+  - Cover image generator for hasnode blogs
 
+## Communities
+- https://hashnode.com
+  - Blog community for IT people
 ## Investors Resource
 
 ### Brazilian market
