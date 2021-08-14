@@ -67,8 +67,8 @@ I already worked with lots of technologies: from hardware to software, from netw
 
 
 # 🔨 Know my projects
-## [mullerfs/queshi](https://github.com/mullerfs/queshi) 
-![GitHub last commit](https://img.shields.io/github/last-commit/mullerfs/queshi?style=flat-square)
+## [mullerfs/queshi-app](https://github.com/mullerfs/queshi-app) 
+![GitHub last commit](https://img.shields.io/github/last-commit/mullerfs/queshi-app?style=flat-square)
 
 The aim of this project is to create a financial application that controls all my investments, fixed expenses, savings and monthly contributions.
 
