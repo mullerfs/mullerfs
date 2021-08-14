@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 
 If You found me here, I will make a guess: You already know me, right?. (Então melhor conversarmos em portugês, não acha?) 
 
-If you don't know me, I am a Product Owner, a Telecom Engineer, an IoT Specialist an many other things. People who know me can even say that I'm a dancer!
+First time? I'm a Telecom Engineer.  I already worked as Product Owner, IT Analyst and Mobile Network Engineer. I am an IoT and Data-driven architecture enthusiastic and I already worked with lots of technologies: from hardware to software, from network layer to application layer, from mobile network protocols like diameter, map  to computer protocols like http, ftp. Proxies, web servers, api gateways, on premisse architectures, Docker, virtualizations, databases, nosql, etc...
+
+![mullerfs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mullerfs&show_icons=true&theme=radical)
+
 
 ## 📫 How to reach me
 
