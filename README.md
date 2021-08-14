@@ -24,7 +24,9 @@ If You found me here, I will make a guess: You already know me, right?. (Então 
 
 First time? I'm a Telecom Engineer.  I already worked as Product Owner, IT Analyst and Mobile Network Engineer. I am an IoT and Data-driven architecture enthusiastic and I already worked with lots of technologies: from hardware to software, from network layer to application layer, from mobile network protocols like diameter, map  to computer protocols like http, ftp. Proxies, web servers, api gateways, on premisse architectures, Docker, virtualizations, databases, nosql, etc...
 
-![mullerfs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mullerfs&show_icons=true&theme=radical)
+![mullerfs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mullerfs&show_icons=true&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mullerfs&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 How to reach me
