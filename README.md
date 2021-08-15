@@ -10,9 +10,8 @@ I am Müller, I'm a Telecom Engineer adventuring in the world of IoT, Mobile ope
 I already worked with lots of technologies: from hardware to software, from network layer to application layer, from mobile network protocols and equipments to computer protocols and elements  like Proxies, web servers, Firewalls, api gateways, on premisse architectures, Docker, virtualizations, databases, mongodb, kafka, GGSN, HLR, HSS, OCS, UMTS, LTE, etc...
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mullerfs&show_icons=true&theme=vue&include_all_commits=true" width="20%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerfs&layout=compact&theme=vue&langs_count=10" width="20%">
+<img src="https://github-readme-stats.vercel.app/api?username=mullerfs&show_icons=true&theme=vue&include_all_commits=true" width="60%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerfs&layout=compact&theme=vue&langs_count=10" width="40%">
 
 
 # 📫 How to reach me
