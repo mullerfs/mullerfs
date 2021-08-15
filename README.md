@@ -38,7 +38,7 @@ I already worked with lots of technologies: from hardware to software, from netw
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
   </p>
   <p width="40%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerfs&layout=compact&theme=vue&langs_count=10" width="35%" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerfs&layout=compact&theme=vue&langs_count=10" width="50%" align="center">
   </p>
 </div>
 
