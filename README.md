@@ -28,7 +28,7 @@ I already worked with lots of technologies: from hardware to software, from netw
 # 💪 Things I'm familiar with
 ## Languages
 <div>
-  <div width="60%">
+  <span width="60%">
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -36,10 +36,10 @@ I already worked with lots of technologies: from hardware to software, from netw
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  </div>
-  <div width="40%">
+  </span>
+  <span width="40%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerfs&layout=compact&theme=vue&langs_count=10" width="35%" >
-  </div>
+  </span>
 </div>
 
 ## Frameworks and Libraries
