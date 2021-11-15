@@ -76,6 +76,10 @@ The aim of this project is to create a financial application that controls all m
 
 Demonstrating how to use keycloak to manage access and authorization on web applications build on top of react
 
+## [mulerfs/python-workspace](https://github.com/mullerfs/python-workspace )
+![GitHub last commit](https://img.shields.io/github/last-commit/mullerfs/python-workspace?style=flat-square)
+
+A Full Workspace enviroment to create jupyter notebooks based on jupyter/datascience-notebook
 
 # Another Things
 - [References](References.md)
